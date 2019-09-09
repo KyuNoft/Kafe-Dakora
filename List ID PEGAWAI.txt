@@ -1,3 +1,5 @@
+ID = Nama (Posisi) > Gaji
+
 46703322 = Panji (Ketua) > 2400000
 46707160 = Dwi (Bendahara) > 2000000
 46706057 = Eki (Gudang) > 1600000
